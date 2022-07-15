@@ -33,7 +33,8 @@ content:
     country: Scotland
     country_code: UK
   office_hours:
-    - 'Monday to Friday, 09:00 to 17:00'
+    - 'Monday to Friday
+    - 09:00 to 17:00'
     - (These hours are flexible.)
   contact_links:
     - icon: twitter
