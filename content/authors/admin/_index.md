@@ -1,12 +1,12 @@
 ---
-role: Psychology PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Doctoral Candidate
+bio: I am an autistic autism researcher, currently in the third year of a PhD looking at social communication between autistic people. I am also a research assistant on a project looking at EDI in the University of Edinburgh's medical curriculum.
 interests:
   - Autism
+  - Social communication
   - Neurodiversity
-  - Psychology
-  - Communication
+  - Participatory research
+  - Mixed methods
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,7 +24,7 @@ organizations:
   - name: University of Edinburgh
 education:
   courses:
-    - course: PhD in Psychology
+    - course: PhD in Clinical Brain Sciences
       institution: University of Edinburgh
       year: 2024
     - course: MPhil in Linguistics
@@ -36,7 +36,7 @@ education:
 superuser: true
 highlight_name: true
 title: Holly Sutherland
-email: ""
+email: "h.e.a.sutherland@gmail.com"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
