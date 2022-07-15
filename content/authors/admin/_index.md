@@ -38,6 +38,8 @@ highlight_name: true
 title: Holly Sutherland
 email: "h.e.a.sutherland@gmail.com"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an autistic autism researcher, currently in the third year of a PhD looking at social communication between autistic people. I am also a research assistant on a project looking at EDI in the University of Edinburgh's medical curriculum.
+
+THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
